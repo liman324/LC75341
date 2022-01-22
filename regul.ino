@@ -1,3 +1,5 @@
+// Регулятор громкости и тембра - https://rcl-radio.ru/?p=112468
+
 #define IR2 0x33B820DF // button encoder
 #define IR3 0x33B8946B // mute
 #define IR4 0x33B810EF // >>>
